@@ -52,16 +52,90 @@ about_content: | # this will include new lines to allow paragraphs
   I am most skilled in: <mark>GAN</mark>, <mark>Diffusion model</mark> and <mark>3D neural rendering</mark>.
 
 content:
+content:
   - title: Selected Publications
     layout: list
     content:
       - layout: top-middle
+        ![](/images/icassp2024.jpg)
         title: Towards Multi-domain Face Landmark Detection with Synthetic Data from Diffusion model
-        quote: > 
+        quote: >
           Yuanming Li, Gwantae Kim, Jeong-gi Kwak, Bonhwa Ku, Hanseok Ko (ICASSP, 2024)
+
         description: |
           <div align="center">
             <img src="/images/icassp2024.jpg" width="50%">
+          <div>
+
+      - layout: top-middle
+        ![ ](/images/icassp2024.jpg)
+        title: Towards High-fidelity Facial UV Map Generation in Real-world
+        quote: >
+          Yuanming Li, Jeonggi Kwak, Bon-hwa Ku, David Han, Hanseok Ko (Pattern Recognition Letters, Review in progress)
+
+        description: |
+          <div align="center">
+            <img src="/images/PRL.pdf" width="50%">
+          <div>
+
+      - layout: top-middle
+        title: The KU-ISPL entry to the GENEA Challenge 2023-A Diffusion Model for Co-speech Gesture generation
+        quote: >
+          Gwantae Kim, Yuanming Li, and Hanseok Ko (ICMI, 2023)
+
+        description: |
+          <div align="center">
+            <img src="/images/ICMI.pdf" width="50%">
+          <div>
+
+      - layout: top-middle
+        title: Injecting 3D Perception of Controllable NeRF-GAN into StyleGAN for Editable Portrait Image Synthesis
+        quote: >
+          Jeong-gi Kwak, Yuanming Li, Dongsik Yoon, Donghyeon Kim, David Han and Hanseok Ko (ECCV, 2022)
+
+        description: |
+          <div align="center">
+            <img src="/images/eccv2022_thumb.png" width="50%">
+          <div>
+
+      - layout: top-middle
+        title: Generate and Edit Your Own Character in a Canonical View
+        quote: >
+          Jeong-gi Kwak, Yuanming Li, Dongsik Yoon, David Han and Hanseok Ko (CVPRW, 2022)
+
+        description: |
+          <div align="center">
+            <img src="/images/cvprw_thumb.png" width="50%">
+          <div>
+
+      - layout: top-middle
+        title: Adaptive Content Feature Enhancement GAN for Multimodal Selfie to Anime Translation
+        quote: >
+          Yuanming Li, Jeong-gi Kwak, Dongsik Yoon, Youngsaeng Jin, David Han, Hanseok Ko (BMVC, 2021)
+
+        description: |
+          <div align="center">
+            <img src="/images/BMCV_LI.png" width="50%">
+          <div>
+
+      - layout: top-middle
+        title: Adverse Weather Image Translation with Asymmetric and Uncertainty-aware GAN
+        quote: >
+          Jeong-gi Kwak, Dongsik Yoon, Yuanming Li, Youngsaeng Jin, Donghyeon Kim, Hanseok Ko (BMVC, 2021)
+
+        description: |
+          <div align="center">
+            <img src="/images/augan.png" width="50%">
+          <div>
+
+      - layout: top-middle
+        title: Reference Guided Image Inpainting using Facial Attributes
+        quote: >
+          Dongsik Yoon, Jeong-gi Kwak, Yuanming Li, Youngsaeng Jin, David Han, Hanseok Ko (BMVC, 2021)
+
+        description: |
+          <div align="center">
+            <img src="/images/bmcv_yoon.png" width="50%">
           <div>
         
   - title: Projects # Title for the section
