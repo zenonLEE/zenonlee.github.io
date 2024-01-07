@@ -61,6 +61,7 @@ content:
           Yuanming Li, Gwantae Kim, Jeong-gi Kwak, Bonhwa Ku, Hanseok Ko (ICASSP, 2024)
         description: |
               ![](/images/icassp2024.jpg)
+              {% include image.html class="polaroid-tiny" url="/images/icassp2024.jpg" title="" %}
         
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
