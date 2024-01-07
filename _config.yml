@@ -53,26 +53,7 @@ about_content: | # this will include new lines to allow paragraphs
 
 content:
 content:
-  - title: Education # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: Korea University
-        caption: Sep. 2019 - July 2024 (Expected)
-        sub_title: Successive Master-doctor of Visual Information Processing
-        description: | # this will include new lines to allow paragraphs
 
-      - layout: left
-        title: Korea University
-        caption: Sep. 2016 - July 2018
-        sub_title: Master of Materials Science
-        description: | # this will include new lines to allow paragraphs
-
-      - layout: left
-        title: Korea University
-        caption: Sep. 2012 - July 2016
-        sub_title: Bachelor of Chemistry
-        description: | # this will include new lines to allow paragraphs
         
   - title: Selected Publications
     layout: list
@@ -149,7 +130,26 @@ content:
             <img src="/images/bmcv_yoon.png" width="50%">
           <div>
         
- 
+  - title: Education # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Korea University
+        caption: Sep. 2019 - July 2024 (Expected)
+        sub_title: Successive Master-doctor of Visual Information Processing
+        description: | # this will include new lines to allow paragraphs
+
+      - layout: left
+        title: Korea University
+        caption: Sep. 2016 - July 2018
+        sub_title: Master of Materials Science
+        description: | # this will include new lines to allow paragraphs
+
+      - layout: left
+        title: Shenyang Ligong University
+        caption: Sep. 2012 - July 2016
+        sub_title: Bachelor of Chemistry
+        description: | # this will include new lines to allow paragraphs
 
 
   - title: A Little More About Me
