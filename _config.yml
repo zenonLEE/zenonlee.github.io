@@ -52,16 +52,17 @@ about_content: | # this will include new lines to allow paragraphs
   I am most skilled in: <mark>GAN</mark>, <mark>Diffusion model</mark> and <mark>3D neural rendering</mark>.
 
 content:
-  - title: Papers
+  - title: Selected Publications
     layout: list
     content:
-      - layout: left
-        title: International Conference
+      - layout: top-middle
+      - title:
 
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
+        image: images/icassp2024.jpg
         title: Super awesome project
         link: github.com/sproogen
         # link_text: Project Website
