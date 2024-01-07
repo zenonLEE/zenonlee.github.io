@@ -57,7 +57,7 @@ content:
     content:
       - layout: top-middle
        # image: images/icassp2024.jpg
-        ![Trees](images/icassp2024.jpg "Trees")
+        ![icassp](/zenonlee.github.io/images/icassp2024.jpg "icassp")
         title: Towards Multi-domain Face Landmark Detection with Synthetic Data from Diffusion model
         description: | # this will include new lines to allow paragraphs
           Yuanming Li, Gwantae Kim, Jeong-gi Kwak, Bonhwa Ku, Hanseok Ko
