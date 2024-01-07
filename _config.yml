@@ -68,7 +68,6 @@ content:
           <div>
 
       - layout: top-middle
-        ![ ](/images/icassp2024.jpg)
         title: Towards High-fidelity Facial UV Map Generation in Real-world
         quote: >
           Yuanming Li, Jeonggi Kwak, Bon-hwa Ku, David Han, Hanseok Ko (Pattern Recognition Letters, Review in progress)
