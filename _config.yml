@@ -62,7 +62,7 @@ content:
           Yuanming Li, Gwantae Kim, Jeong-gi Kwak, Bonhwa Ku, Hanseok Ko (ICASSP, 2024)
         description: |
           <div align="center">
-            <img src="/images/icassp2024.jpg" width="50%">
+            <img src="/images/icassp2024.jpg" width="25%">
           <div>
 
       - layout: top-middle
@@ -71,7 +71,7 @@ content:
           Yuanming Li, Jeonggi Kwak, Bon-hwa Ku, David Han, Hanseok Ko (Pattern Recognition Letters, Review in progress)
         description: |
           <div align="center">
-            <img src="/images/PRL.pdf" width="50%">
+            <img src="/images/PRL.jpg" width="50%">
           <div>
 
       - layout: top-middle
@@ -80,7 +80,7 @@ content:
           Gwantae Kim, Yuanming Li, and Hanseok Ko (ICMI, 2023)
         description: |
           <div align="center">
-            <img src="/images/ICMI.pdf" width="50%">
+            <img src="/images/ICMI.png" width="50%">
           <div>
 
       - layout: top-middle
