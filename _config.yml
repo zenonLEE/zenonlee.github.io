@@ -56,13 +56,14 @@ content:
   - title: Selected Publications
     layout: list
     content:
-      - layout: left
+      - layout: top-left
         title: Towards Multi-domain Face Landmark Detection with Synthetic Data from Diffusion model
-        quote: >
-          Yuanming Li, Gwantae Kim, Jeong-gi Kwak, Bonhwa Ku, Hanseok Ko (ICASSP, 2024)
+        #quote: >
         description: |
+          Yuanming Li, Gwantae Kim, Jeong-gi Kwak, Bonhwa Ku, Hanseok Ko (ICASSP, 2024)
+    
           <div align="left">
-            <img src="/images/icassp2024.jpg" width="25%">
+            <img src="/images/icassp2024.jpg" width="40%">
           <div>
 
       - layout: top-middle
@@ -80,7 +81,7 @@ content:
           Gwantae Kim, Yuanming Li, and Hanseok Ko (ICMI, 2023)
         description: |
           <div align="center">
-            <img src="/images/ICMI.png" width="50%">
+            <img src="/images/ICMI.png" width="30%">
           <div>
 
       - layout: top-middle
