@@ -22,7 +22,7 @@ github_username:  zenonLEE
 # facebook_username: jekyll
 # flickr_username: jekyll
 # instagram_username: jameswgrant
-linkedin_username: Yuanming LI
+linkedin_username: Yuanming Li
 # xing_username: jekyll
 # pinterest_username: jekyll
 # youtube_username: globalmtb
@@ -57,11 +57,11 @@ content:
     content:
       - layout: top-middle
        # image: images/icassp2024.jpg
-        ![icassp](/zenonlee.github.io/images/icassp2024.jpg "icassp")
+
         title: Towards Multi-domain Face Landmark Detection with Synthetic Data from Diffusion model
-        description: | # this will include new lines to allow paragraphs
-          Yuanming Li, Gwantae Kim, Jeong-gi Kwak, Bonhwa Ku, Hanseok Ko
-          ICASSP, 2024
+        description:  # this will include new lines to allow paragraphs
+          Yuanming Li, Gwantae Kim, Jeong-gi Kwak, Bonhwa Ku, Hanseok Ko (ICASSP, 2024)
+                ![](/images/icassp2024.jpg)
         
 
   - title: Projects # Title for the section
