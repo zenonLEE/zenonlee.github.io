@@ -58,8 +58,7 @@ content:
       - layout: top-middle
         image: /images/icassp2024.jpg  # 确保这一行是取消注释的
         title: Towards Multi-domain Face Landmark Detection with Synthetic Data from Diffusion model
-        description: |
-          Yuanming Li, Gwantae Kim, Jeong-gi Kwak, Bonhwa Ku, Hanseok Ko (ICASSP, 2024)
+        description: Yuanming Li, Gwantae Kim, Jeong-gi Kwak, Bonhwa Ku, Hanseok Ko (ICASSP, 2024)
 
             #    ![](/images/icassp2024.jpg)
         
