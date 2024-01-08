@@ -48,8 +48,13 @@ linkedin_username: yuanming-li-ab527220b
 # about_title: About Me
 about_profile_image: images/my.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  My focus is on image-to-image translation, 3D neural rendering and multi-view image generation, particularly using synthetic data for tasks like 3D face reconstruction and landmark detection. Passionate about the potential of 2D & 3D data synthesis, I believe synthetic data will be pivotal in future tech developments.
-  I am most skilled in: <mark>GAN</mark>, <mark>Diffusion model</mark> and <mark>3D neural rendering</mark>.
+
+Hello, I'm Li Yuanming, currently a Ph.D. candidate in Artificial Intelligence at Korea University under the guidance of Hanseok Ko. You might find my educational journey intriguing due to the significant 'gap' between my undergraduate, master's, and doctoral fields. This gap reflects my 'important' choices.
+
+In my field, I focus on generative models like Generative Adversarial Networks (<mark>GAN</mark>), <mark>Diffusion model</mark>, and <mark>3D neural rendering</mark>. I've worked with 1D, 2D, and 3D data synthesis, and my current research mainly involves synthesizing 3D data from 2D sources. I have extensive experience in enhancing existing model performance through synthetic data generation.
+
+  # My focus is on image-to-image translation, 3D neural rendering and multi-view image generation, particularly using synthetic data for tasks like 3D face reconstruction and landmark detection. Passionate about the potential of 2D & 3D data synthesis, I believe synthetic data will be pivotal in future tech developments.
+  # I am most skilled in: <mark>GAN</mark>, <mark>Diffusion model</mark> and <mark>3D neural rendering</mark>.
 
 content:
 content:
